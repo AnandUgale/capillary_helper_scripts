@@ -4,7 +4,7 @@ import numpy as np
 import csv
 import os
 import math
-images_folder_path = '../train/images'
+images_folder_path = '../images'
 import cv2
 import IPython
 
